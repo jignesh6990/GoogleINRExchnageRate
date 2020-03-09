@@ -13,6 +13,7 @@ namespace GoogleRateExchange
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //This is test
         }
     }
 }
